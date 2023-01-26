@@ -12,5 +12,5 @@ https://github.com/kylearmour1/Pass-Craft
 https://kylearmour1.github.io/Pass-Craft/
 
 
-![Screenshot of my website](Assets\Password-Generator.png)
+![image](./Assets/Password-Generator.png)
 
